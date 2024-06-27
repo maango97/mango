@@ -6,7 +6,7 @@
 
 초보자도 쉽게 배울 수 있도록 SQL 튜닝 수업 내용을 정리하였습니다.
 
-<img src=https://github.com/maango97/mango/blob/main/001.png
+<img src=https://github.com/maango97/mango/blob/main/001.png>
 
 &nbsp;
 
